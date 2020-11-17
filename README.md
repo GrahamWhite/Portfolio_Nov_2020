@@ -28,9 +28,13 @@ https://nodejs.org/en/download/
 **Create Firebase Project**
 
 
-**Edit *firebaseConfig* in the *SubscriptionForm.js* file to match the setting from your firebase project**
+**Edit *firebaseConfig* in the *SubscriptionForm.js* file 
+to match the settings from your firebase project**
 
-Please note that in future updates constants and functions included in the *SubscriptionForm.js* page will be divided into data, facade, utility, and controller files to maintain project organization.
+Please note that in future updates constants and functions included in the 
+*SubscriptionForm.js* page will be divided into data, facade, utility, and 
+controller files to maintain project organization.
 
-The app should now save a subscriber's email and name to the realtime firebase database you created.
+The app should now save a subscriber's email and name to the realtime 
+firebase database you created.
 
